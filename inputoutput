@@ -1,0 +1,6 @@
+package inputoutput;
+import java.util.scanner;
+public class inputoutput {
+public static void main(String[] args){
+System.out.println(
+
